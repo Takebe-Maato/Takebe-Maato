@@ -326,7 +326,9 @@ nav a {
   color: white;
   line-height: 0;
   font-size: 15px;
-  margin-right: 5px;
+  /* margin-right: 5px;
+  margin-top: 10px; */
+  margin: 10px;
 }
 
 .pagetop {
